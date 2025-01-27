@@ -13,8 +13,13 @@ AI Customer Support Chatbot This is a **GenAI-powered chatbot** designed for han
 - Git installed
 - API Key for Groq (LLaMA model)
 
+# AI Customer Support Chatbot
 
----
+![Chatbot UI](https://github.com/shaikhsuhana/Customer-Support-Bot/blob/2d1a280fc16993de03480ba3a2777eb3d73c3166/ChatBotUI.png?raw=true)
+
+This is a **GenAI-powered chatbot** designed for handling customer support queries.  
+It classifies user queries, analyzes sentiment, and provides AI-generated responses.
+
 
 ## Dependencies
 - **LangChain**: AI model interaction
